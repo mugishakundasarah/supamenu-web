@@ -1,0 +1,12 @@
+
+:root{
+    --main-color: #f7941d;
+}
+
+.text-yellow{
+    color: var(--main-color);
+}
+
+.bg-yellow{
+    background-color: var(--main-color);
+}
